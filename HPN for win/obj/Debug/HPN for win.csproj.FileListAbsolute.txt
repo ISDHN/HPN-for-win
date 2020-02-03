@@ -1,0 +1,9 @@
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\bin\Debug\HPN for win.exe
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\bin\Debug\HPN for win.pdb
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN for win.csprojAssemblyReference.cache
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN_for_win.Fireworks.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN_for_win.Form1.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN_for_win.Properties.Resources.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN for win.csproj.GenerateResource.cache
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN for win.exe
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\Debug\HPN for win.pdb

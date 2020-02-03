@@ -1,0 +1,22 @@
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\bin\x86\Debug\HPN for win.exe
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\bin\x86\Debug\HPN for win.pdb
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN for win.csprojAssemblyReference.cache
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Fireworks.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Form1.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Properties.Resources.resources
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN for win.csproj.GenerateResource.cache
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN for win.exe
+D:\承岳\程序\HPN\win\HPN for win\HPN for win\obj\x86\Debug\HPN for win.pdb
+D:\承岳\程序\HPN\HPN for win\HPN for win\bin\x86\Debug\HPN for win.exe
+D:\承岳\程序\HPN\HPN for win\HPN for win\bin\x86\Debug\HPN for win.pdb
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.csprojAssemblyReference.cache
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Fireworks.resources
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Form1.resources
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN_for_win.Properties.Resources.resources
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.csproj.GenerateResource.cache
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.exe
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.pdb
+D:\承岳\程序\HPN\HPN for win\HPN for win\bin\x86\Debug\HPN for win.exe.manifest
+D:\承岳\程序\HPN\HPN for win\HPN for win\bin\x86\Debug\HPN for win.application
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.exe.manifest
+D:\承岳\程序\HPN\HPN for win\HPN for win\obj\x86\Debug\HPN for win.application
